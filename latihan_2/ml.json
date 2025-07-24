@@ -1,0 +1,42 @@
+[
+    {
+        "informasi" : {
+            "tahun_dan_tanggal_peluncuran" : "11 juli 2016",
+            "jumlah_pemain" : "80,76 juta pemain aktif di seluruh dunia",
+            "pemilik_game_atau_perusahaan" : "Moonton"
+        },
+
+        "hero" : {
+            "mm" : {
+                  "marksman" : "ixia, miya, melissa, edith, natan, beatrix, brody, popol dan kupa",
+            "marksman_pt_2" :"wanwan, granger, claude, hanabi, lesley, irithel, karrie, roger",
+            "marksman_pt_3" : "moskov, yi shun-shin, layla, clint, bruno"
+            },
+          
+            "exp" : {
+                "fighter" : "kalea, lukas, suyou, cici, arlott, fredrinn, julian, yin, aulus",
+                "fighter_pt_2" : "phoveus, paquito, barats, khaleed, benedetta, yu zhong",
+                "fighter_pt_3" : "silvanna, masha, dyrroth, x.borg, terizla, guinevere",
+                "fighter_pt_4" : "minsitthar, thamuz, leomord, aldous, kaja, martis, jawhead",
+                "fighter_pt_5" : "argus, grock, gatotkaca, roger, lapu-lapu, hllda, ruby, alpha",
+                "fighter_pt_6" : "sun, chou, freya, zilong, bane, alucard, balmond"
+            },
+
+            "roam" : {
+                "tank" : "chip, fredrinn, edith, gloo, barats, atlas, carmilla, masha, baxia",
+                "tank_pt_2" : "terizla, esmeralda, khufra, belerick, uranus, hylos, grock,",
+                "tank_pt_3" : "gatotkaca, hilda, johnson, lolita, minotaur, franco, akai, tigreal, alice",
+
+                "support" : {
+                    "support_" : "kalea, chip, floryn, mathilda, carmilla, faramis, kaja, angela, diggie,", 
+                    "support_pt_2" : "johnson, lolita, minotaur, rafaela"
+                }
+            },
+
+            "mage" : "zetian, zhuxin, novaria, xavier, valentina, yve, luo yi, cecillion, lylia, esmeralda",
+            "mage_pt_2" :"kadita, harith, kimmy, lunox, vale, selena, chang'e, valir, pharsa, zhask, odette,",
+            "mage_pt_3" :"vexana, aurora, cyclops, kagura, gord, eudora, bane, nana, alice"
+        }
+        
+    }
+]
