@@ -1,0 +1,38 @@
+[
+    {
+            "nama" : "Fikri Awallludin R",
+            "tempat_lahir" : "Bandung",
+            "tanggal_lahir" : "2002-10-18",
+            "alamat" : {
+                "jalan" : "Kp. curug dog-dog Rt-06 Rw-10",
+                "desa" : "Sukamenak",
+                "kecamatan" : "Margahayu"
+            },
+            "hobi" : [
+                "game",
+                "ngoding",
+                "musik"
+            ],
+
+            "kontak" : {
+                "email" : "fikrimarhas11@gmail.com",
+                "whatsapp" : "085860277148",
+                "instagram" : "fikrrmt"
+            },
+
+            "game_favorit" : [
+                "CODM",
+                "E-football",
+                "monoposto"
+            ],
+
+        "makanan_favorit" : [
+            "nasgor goreng🤤",
+            "rendang bikin nendang🤤",
+            "naskun kuning😋🤤🤤",
+            "mie ayam🤤🤤😋😋",
+            "ayam geprek🤤🤤😋😋"
+        ]
+
+    }
+]

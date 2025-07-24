@@ -1,0 +1,35 @@
+body{
+    background-color: #d1cabf;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: #F3E9DC;
+    width: 50%;
+    padding: 30px;
+    margin: 150px auto;
+    border-radius: 20px;
+}
+
+input{
+    width: 100%;
+    border: none;
+    border-radius: 20Px;
+    padding: 10px;
+}
+
+textarea{
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+button{
+    background-color: #B12C00;
+    color: blanchedalmond;
+    border: none;
+    border-radius: 20px;
+    padding: 12px;
+    width: 100px;
+}
